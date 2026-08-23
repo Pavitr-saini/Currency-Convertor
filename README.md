@@ -1,16 +1,54 @@
-# React + Vite
+# 💱 Currency Converter
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive **Currency Converter** application that allows users to convert between multiple international currencies using real-time exchange rates fetched from an API.
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* 💱 **Currency Conversion** — Convert between multiple international currencies.
+* 🌐 **Real-Time Exchange Rates** — Fetches the latest exchange rates from an API.
+* ⚡ **Instant Conversion** — Updates conversion results quickly.
+* 🔄 **Multiple Currencies** — Select different currencies for conversion.
+* 📱 **Responsive UI** — Optimized for desktop, tablet, and mobile devices.
+* 🎨 **Clean Interface** — Simple and user-friendly design.
 
-## React Compiler
+## 🛠️ Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* **HTML5**
+* **CSS3**
+* **JavaScript**
+* **REST API**
+* **Git & GitHub**
 
-## Expanding the ESLint configuration
+## 🚀 Getting Started
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Clone the repository
+
+```bash
+git clone YOUR_GITHUB_REPOSITORY_URL
+cd Currency-Converter
+```
+
+### Run the application
+
+Open `index.html` directly in your browser, or use **VS Code Live Server** to run the project locally.
+
+## 🌐 Live Demo
+
+View Live Demo: https://currency-convertor-tau-pink.vercel.app/
+
+## 📌 Key Highlights
+
+* Integrated a currency exchange API to fetch real-time rates.
+* Implemented conversion between multiple international currencies.
+* Added instant conversion based on user input and currency selection.
+* Built a responsive interface using HTML and CSS.
+* Used JavaScript to handle API requests and dynamic UI updates.
+
+## 👨‍💻 Author
+
+**Pavitr Saini**
+Frontend Developer | React.js | Next.js
+
+---
+
+⭐ If you like this project, consider giving the repository a star!
